@@ -29,7 +29,7 @@ The following personnel is/are responsible for managing this project.
 
 - EasierWorship.Bible.Data
 	- The Business Layer of the system
-- PERI.Agenda.Test
+- EasierWorship.Bible.Test
     - Unit test project
 	
 ### Sample Code
